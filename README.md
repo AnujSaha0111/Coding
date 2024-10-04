@@ -11,8 +11,11 @@ Here you will find code of every topic and in every language
 
 To contribute in the current repo follow the following steps:
 
-- Fork this repo 
-- Clone this repo
+- Fork this repo - Click the "Fork" button at the top right of this page to create a copy of this repository under your GitHub account.
+- Clone this repo - Use the command below to clone the forked repository to your local machine:
+
+   ```bash
+   git clone https://github.com/<your-username>/Coding.git
 - Create issue reagarding what you are adding.
 - Create a directory/folder with name of programming language if folder does not exist.
 for example :- create folder named as **Java**
